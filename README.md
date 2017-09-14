@@ -8,4 +8,4 @@ socio de Peñarol y no del partidocomunista y de un veedor de la 15.
 
 Creo la solidaridad dentro de las instituciones pasa uun poco también en organizarse y aunar esfuerzos en pos del progreso y evolución del coletivo. De ahí que pasa un poco también lo de la democratización de la Institución y también llegará la hora de la evolución y el enriquecimiento cultural o informativo de la popular, hincha o socio de la Institución y esto vendría más rápido si a la popular de la Institución le informan la política oficial de la Institución para ir afinandola y chafarla más legal que nunca, para no ir a  parar a la calle todos juntos. Afirmar la democracia en la Institución acrecienta la responsabilidad de los individuos del colectivo o de todos los monos.
 
-[Tillhör Peñarol](http://xn--tillhrpearol-hhb0e.tk)
+[Tillhör Peñarol](http://xn--tillhrpearol-hhb0e.tk) (Pertenece a Peñarol)
