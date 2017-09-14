@@ -1,0 +1,2 @@
+# tillh-r
+Repositorio dedicado a unificar los tags (léase schema.org) de los emblemas y el nombre como empresa registrada del Club Atlético Peñarol, asimismo como el alcance y envergadura del paraguas Peñarol, como base y resguardo de todos sus hinchas y socios a lo largo de los 4 puntos cardinales del planeta. Esto último entiendase no solo en el sentido de ser una carga más económica para la institución sino  ver el poderío potencial que esto representa como lo de tener una embajada carbonera en todos los países de este "planeta".
