@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="360.10352mm"
+   height="362.37137mm"
+   viewBox="0 0 360.10352 362.37137"
+   version="1.1"
+   id="svg4533"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="LaM.svg">
+  <defs
+     id="defs4527">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5092">
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1;"
+         offset="0"
+         id="stop5088" />
+      <stop
+         style="stop-color:#ff6600;stop-opacity:0;"
+         offset="1"
+         id="stop5090" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5092"
+       id="linearGradient5096"
+       x1="-467.31366"
+       y1="156.01488"
+       x2="-107.21015"
+       y2="156.01488"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1701.9391"
+     inkscape:cy="711.93912"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4530">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(467.31366,25.170804)">
+    <g
+       id="g5103">
+      <ellipse
+         ry="179.53868"
+         rx="178.40475"
+         cy="156.01488"
+         cx="-287.2619"
+         id="path4535"
+         style="fill:url(#linearGradient5096);fill-opacity:1;stroke:#ff6600;stroke-width:3.29400015;stroke-miterlimit:4;stroke-dasharray:none" />
+      <flowRoot
+         transform="matrix(1.3611462,0,0,0.92678634,1570.2718,-282.62625)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:8.76365566;stroke-miterlimit:4;stroke-dasharray:none"
+         id="flowRoot4537"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#800080;stroke-width:8.76365566;stroke-miterlimit:4;stroke-dasharray:none"
+           id="flowRegion4539"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#800080;stroke-width:8.76365566;stroke-miterlimit:4;stroke-dasharray:none"
+             y="365.37683"
+             x="-1457.1428"
+             height="560"
+             width="840"
+             id="rect4541" /></flowRegion><flowPara
+           id="flowPara4543">M</flowPara></flowRoot>    </g>
+  </g>
+</svg>

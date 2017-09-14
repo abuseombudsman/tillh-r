@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256.53244mm"
+   height="256.53244mm"
+   viewBox="0 0 256.53244 256.53244"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="M.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1516.2142"
+     inkscape:cy="486.21426"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(418.17393,-20.945086)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3682"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion3684"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff"><rect
+           id="rect3686"
+           width="617.14288"
+           height="465.71429"
+           x="-1391.4286"
+           y="362.51968"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara3688"></flowPara></flowRoot>    <g
+       id="g4508">
+      <circle
+         r="128.13393"
+         cy="149.2113"
+         cx="-289.90771"
+         id="path3680"
+         style="fill:#ff7500;fill-opacity:0.68844222;stroke:#ff0000;stroke-width:0.26458332" />
+      <flowRoot
+         transform="matrix(0.72432119,0,0,0.48661368,684.07151,-73.121804)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:5.54837561;stroke-miterlimit:4;stroke-dasharray:none"
+         id="flowRoot3690"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#800080;stroke-width:5.54837561;stroke-miterlimit:4;stroke-dasharray:none"
+           id="flowRegion3692"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke:#800080;stroke-width:5.54837561;stroke-miterlimit:4;stroke-dasharray:none"
+             y="348.23398"
+             x="-1440"
+             height="468.57144"
+             width="797.14288"
+             id="rect3694" /></flowRegion><flowPara
+           id="flowPara3696">M</flowPara></flowRoot>    </g>
+  </g>
+</svg>
