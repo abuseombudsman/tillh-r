@@ -1,5 +1,4 @@
 {% highlight html %}
-<html>
 <div itemscope itemtype="http://schema.org/SportsTeam">
   <a href="http://www.chelseafc.com/" itemprop="url">
     <h1 itemprop="name">Club Atlético Peñarol</h1>
@@ -20,5 +19,4 @@
 	Su sede se encuentra en la calle Magallanes 1721, Mdeo. URUGUAY
   </div>
 </div>
-</html>
 {% endhighlight %}
