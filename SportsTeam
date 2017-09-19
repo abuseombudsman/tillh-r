@@ -1,3 +1,4 @@
+{% highlight html %}
 <html>
 <div itemscope itemtype="http://schema.org/SportsTeam">
   <a href="http://www.chelseafc.com/" itemprop="url">
@@ -20,3 +21,4 @@
   </div>
 </div>
 </html>
+{% endhighlight %}
