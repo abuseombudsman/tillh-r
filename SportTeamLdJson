@@ -1,0 +1,24 @@
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "SportsTeam",
+  "name": "Club Atlético Peñarol",
+  "url": "http://www.xn--pearol-xwa.org",
+  "logo": "http://xn--tillhrpearol-hhb0e.tk/images/g4872.png",
+  "image": "http://admin.xn--capearol-g3a.cf",
+  "description": "Club de fútbol sudamericano",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Magallanes 1721",
+    "addressLocality": "Montevideo",
+    "addressRegion": "Montevideo",
+    "postalCode": "11200",
+    "addressCountry": "URUGUAY"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+598224011891 int 0",
+    "contactType": "Recepción"
+  }
+}
+ </script>
